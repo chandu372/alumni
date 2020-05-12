@@ -211,6 +211,7 @@
         <hr>
         <div class="row">
             <p style="color: black;padding-left: 120px"><?php echo ucfirst($student['name']) ?>'s Bio:&nbsp;&nbsp;
+              test
               <?php 
                if(isset($intro['bio']))
                {
